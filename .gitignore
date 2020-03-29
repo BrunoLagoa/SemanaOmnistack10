@@ -67,4 +67,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+yarn.lock
+
 # End of https://www.gitignore.io/api/git,gitbook,tortoisegit

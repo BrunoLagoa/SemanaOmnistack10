@@ -38,7 +38,7 @@ Clone o repositório em sua maquina:
 ## Layout
 
 <div align="center">
-    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/../../public/projeto/01.png" width="650px" />
+    <img alt="Desktop" title="#Desktop" src="frontend/src/assets/../../public/projeto/01.png" width="850px" />
 </div>
 
 ## Licença
